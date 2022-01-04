@@ -33,7 +33,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>pl.piomin.microservices.zipkin.ZipkinServiceApplication</mainClass>
+                    <mainClass>microservices.zipkin.ZipkinServiceApplication</mainClass>
                     <addResources>true</addResources>
                 </configuration>
                 <executions>
